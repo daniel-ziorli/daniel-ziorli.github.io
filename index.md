@@ -1,10 +1,8 @@
-## Work Experience
+# Work Experience
 
 ---
-### Orion
-[Software Developer](/sample_page)
+[Orion - Software Developer](/sample_page)
 [<img src="https://i.ibb.co/9c1cCmT/Logo-Tagline-Blue-staffsig.png"/>](/sample_page)
-
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/orion.jpg?raw=true"/>
