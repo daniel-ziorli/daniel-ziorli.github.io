@@ -2,7 +2,7 @@
 
 ---
 
-[<h2 style="color=black;">Orion - Software Developer</h2>](/sample_page)
+[<h2 style="colour: black;">Orion - Software Developer</h2>](/sample_page)
 [<img src="https://i.ibb.co/9c1cCmT/Logo-Tagline-Blue-staffsig.png"/>](/sample_page)
 
 ---
