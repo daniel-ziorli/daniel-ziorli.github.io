@@ -3,8 +3,9 @@
 ---
 
 ### Orion - Software Developer
-[read more](/sample_page)
+
 [<img src="images/orion.jpg?raw=true"/>](/sample_page)
+[read more](/sample_page)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
