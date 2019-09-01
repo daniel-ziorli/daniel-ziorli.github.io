@@ -2,9 +2,8 @@
 
 ---
 
-### Orion - Software Developer
-[Read more](/sample_page)
-<img src="images/orion.jpg?raw=true"/>
+### Orion - Software Developer(/sample_page)
+<img src="images/orion.jpg?raw=true"/>(/sample_page)
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
