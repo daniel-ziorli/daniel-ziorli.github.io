@@ -5,6 +5,7 @@
 ### Orion - Software Developer
 
 [<img src="https://i.ibb.co/9c1cCmT/Logo-Tagline-Blue-staffsig.png"/>](/sample_page)
+<br>
 [read more](/sample_page)
 
 ---
