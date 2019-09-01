@@ -2,7 +2,8 @@
 
 ---
 
-[Orion - Software Developer](/sample_page)
+### Orion - Software Developer
+[Read more](/sample_page)
 <img src="images/orion.jpg?raw=true"/>
 
 ---
