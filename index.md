@@ -2,6 +2,7 @@
 
 ---
 [Orion - Software Developer](/sample_page)
+<br>
 [<img src="https://i.ibb.co/9c1cCmT/Logo-Tagline-Blue-staffsig.png"/>](/sample_page)
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
