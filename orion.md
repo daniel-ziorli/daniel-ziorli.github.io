@@ -23,6 +23,7 @@ During the course of the semester I worked closely with the security team to enf
 
 ## Job Description
 ---
+<img src="https://www.careergirls.org/wp-content/uploads/2015/06/Computer_Programmer1920X10180.jpg"/>
 My primary role at ORION was to work with network teams to evaluate and use the various tools supplied by ORION such as their SIEM and Arbor to generate statistical insights and transparency. Alongside assisting the various teams and departments in the specification of and development of customized software tools as required. 
 
 
