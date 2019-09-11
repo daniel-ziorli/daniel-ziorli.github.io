@@ -9,7 +9,7 @@ Over the course of the summer I had the pleasure to work with ORION as a softwar
 ---
 
 ### Effective requirements gathering
-
+<img src="https://atomicsmash-725c.kxcdn.com/wp-content/uploads/2018/08/requirements_gathering_contained-1108x0-c-default.jpg"/>
 Although this is a trivial skill it is probably one of the most important ones. I learned that if you don’t ask the right questions you end up doing a lot of work that is not what is required. During the term I worked on various projects by myself, I worked with various technical and non technical departments to generate requirements list that were detailed and accurate to their needs. Gathering accurate requirements allowed me to plan and complete my projects without surprises or revisions. Having this skill will greatly benefit me in the future as requirements gathering is a fundamental building block of effective software development.
 
 ### Robust Code
