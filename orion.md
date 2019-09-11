@@ -5,6 +5,7 @@
 
 ## Abstract/Introduction
 ---
+Over the course of the summer I had the pleasure to work with ORION as a software developer. ORION is an Internet Service Provider for major research institutions, school boards and medical facilities. They are also a non for profit company that focuses on creating a reliable service for everyone in Ontario. They also have initiatives to bring the internet to the nether regions of Ontario which is interesting because we take the internet for granted.
 
 ## Goals
 ---
