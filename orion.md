@@ -34,7 +34,3 @@ The most unique aspect of this job was the diversity of projects and keeping all
 ## Conclusions
 ---
 Overall the experience was great. It taught me a lot about managing time, keeping on top of tasks and providing quality work that I can be proud of. I’m very proud to work with Big data to develop statistical models that have helped and will continue to help ORION’s network run smoothly in the future. Working with many different and diverse teams gave me insights into were their problems lie and helped me understand how to better suit their needs. ORION is a great company and gave me a lot of freedom to develop and strive and would love to work with them again in the future.
-
-
-## Acknowledgments
----
