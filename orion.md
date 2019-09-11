@@ -24,9 +24,16 @@ During the course of the semester I worked closely with the security team to enf
 
 ## Job Description
 ---
+My primary role at ORION was to work with network teams to evaluate and use the various tools supplied by ORION such as their SIEM and Arbor to generate statistical insights and transparency. Alongside assisting the various teams and departments in the specification of and development of customized software tools as required. 
+
+
+The most unique aspect of this job was the diversity of projects and keeping all of them on track and manageable. I had to develop excellent time management skills which I already possessed from school. The Software Design courses that I have taken in year 1 and 2 have been extremely helpful in preparing me for 
+
 
 ## Conclusions
 ---
+Overall the experience was great. It taught me a lot about managing time, keeping on top of tasks and providing quality work that I can be proud of. I’m very proud to work with Big data to develop statistical models that have helped and will continue to help ORION’s network run smoothly in the future. Working with many different and diverse teams gave me insights into were their problems lie and helped me understand how to better suit their needs. ORION is a great company and gave me a lot of freedom to develop and strive and would love to work with them again in the future.
+
 
 ## Acknowledgments
 ---
