@@ -16,7 +16,7 @@ Although this is a trivial skill it is probably one of the most important ones. 
 <img src="https://www.wlion.com/wp-content/uploads/2017/04/CleanCode.jpg"/>
 Since I was the only developer at the company at the time my code needed to work after I left. To insure quality code I worked on creating well documented, clean and thoroughly tested code. I used GitHub to store my documentation files and code and various python libraries such as selenium to test my gui’s. This skill is a great transferable skills as it adds value to the work I complete and leave with the company. 
 
-### Big Data and DDOS Mitigatiion
+### Big Data and DDOS Mitigation
 <img src="https://www.hitec-dubai.com/wp-content/uploads/2018/10/Big-Data-Verteda-1200x848.jpeg"/>
 During the course of the semester I worked closely with the security team to enforce security and help use their DDOS mitigation solution Arbor. Arbor tracks and logs over 20,000 packets every second on the ORION network and all this information is stored for later analysis. Using Libraries such as Pandas to test hypothesis and tools such as Hadoop the team and I were able to filter specific packets that were malicious. By doing this we reduced down time and server load significantly.
 
