@@ -4,18 +4,18 @@
 ## Introduction
 ---
 <img src="https://sdtimes.com/wp-content/uploads/2017/10/IMG_1463.png"/>
-Over the course of the summer I had the pleasure to work with ORION as a software developer. ORION is an Internet Service Provider for major research institutions, school boards and medical facilities. They are also a non for profit company that focuses on creating a reliable service for everyone in Ontario. They also have initiatives to bring the internet to the nether regions of Ontario which is interesting because we take the internet for granted.
+Over the course of the fall I worked with the wonderful people at TD Lab as a solutions developer. ORION is a major bank across canada and the us. I worked at TD Labs which is a part of TD inovations and research sector primmarliy to com up with financial solutions to student problems.
 
 ## Goals
 ---
 
-### Effective requirements gathering
+### Hackathons
 <img src="https://atomicsmash-725c.kxcdn.com/wp-content/uploads/2018/08/requirements_gathering_contained-1108x0-c-default.jpg"/>
-Although this is a trivial skill it is probably one of the most important ones. I learned that if you don’t ask the right questions you end up doing a lot of work that is not what is required. During the term I worked on various projects by myself, I worked with various technical and non technical departments to generate requirements list that were detailed and accurate to their needs. Gathering accurate requirements allowed me to plan and complete my projects without surprises or revisions. Having this skill will greatly benefit me in the future as requirements gathering is a fundamental building block of effective software development.
+I wanted to improve my creative skills during hackathons, coming up with new and interesting ideas that would solve problems with very simple solutions. Working in a startup environment allowed me to have more freedom when it came to coming up with ideas and how we built them up which was amazing because it taught me so much about ideation, design, testing and market fit. I was able to place 2nd In both of our hackathons which was a great feeling and excited me to do more outside of work.7
 
-### Robust Code
+### Presentations
 <img src="https://www.wlion.com/wp-content/uploads/2017/04/CleanCode.jpg"/>
-Since I was the only developer at the company at the time my code needed to work after I left. To insure quality code I worked on creating well documented, clean and thoroughly tested code. I used GitHub to store my documentation files and code and various python libraries such as selenium to test my gui’s. This skill is a great transferable skills as it adds value to the work I complete and leave with the company. 
+Improving my ability to present is vital for working in companies big or small. Over the course of the semester I made it a goal to work on my presentation skills to my fellow co-workers and other members of the company. By doing so I would have a great advantage over others who may have never presented making it easy to get my ideas across and just over all being more confident in a presentation setting. Every week we would have to come up with a presentation to see what we have been working on during the week to keep the team updated. We also had to prepare a big presentation for middle manage to show what the innovation sector was working on and allowed us to connect with other people in the company to make our products a reality.
 
 ### Big Data and DDOS Mitigation
 <img src="https://www.hitec-dubai.com/wp-content/uploads/2018/10/Big-Data-Verteda-1200x848.jpeg"/>
