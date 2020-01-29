@@ -4,7 +4,7 @@
 ## Introduction
 ---
 <img src="https://sdtimes.com/wp-content/uploads/2017/10/IMG_1463.png"/>
-Over the course of the fall I worked with the wonderful people at TD Lab as a solutions developer. TD is a major bank across canada and the USA. I worked at TD Labs which is a part of TD inovations and research sector primmarliy to come up with financial solutions to student problems by students.
+Over the course of the fall I worked with the wonderful people at TD Lab as a solutions developer. TD is a major bank across canada and the USA. I worked at TD Labs which is a part of TD innovations and research sector primarily to come up with financial solutions to student problems by students.
 
 ## Goals
 ---
@@ -24,7 +24,7 @@ The project that I was working on was primarily done in the language Dart and us
 ## Job Description
 ---
 <img src="https://www.careergirls.org/wp-content/uploads/2015/06/Computer_Programmer1920X10180.jpg"/>
-My primary role at TD was to work with the mobile peer to peer team to develope their app. Allthough this was my primary job their were so many other things that I did like; doing market research, building furnature, going through design sprints, doing user testing and so much more. The open endedness of TD's work enviroment allowed me to get a greated understanding of how tech should be done in a start up enviroment, how to get things done with the limited resources at hand and have a great time doing it.
+My primary role at TD was to work with the mobile peer to peer team to develop their app. Although this was my primary job their were so many other things that I did like; doing market research, building furniture, going through design sprints, doing user testing and so much more. The open endedness of TD's work environment allowed me to get a greater understanding of how tech should be done in a startup environment, how to get things done with the limited resources at hand and have a great time doing it.
 
 ## Conclusions
 ---
