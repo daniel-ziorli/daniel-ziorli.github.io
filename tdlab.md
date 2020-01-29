@@ -11,7 +11,7 @@ Over the course of the fall I worked with the wonderful people at TD Lab as a so
 
 ### Hackathons
 <img src="https://ryecscu.com/content/images/size/w2000/2019/09/eigth.png"/>
-I wanted to improve my creative skills during hackathons, coming up with new and interesting ideas that would solve problems with very simple solutions. Working in a startup environment allowed me to have more freedom when it came to coming up with ideas and how we built them up which was amazing because it taught me so much about ideation, design, testing and market fit. I was able to place 2nd In both of our hackathons which was a great feeling and excited me to do more outside of work.7
+I wanted to improve my creative skills during hackathons, coming up with new and interesting ideas that would solve problems with very simple solutions. Working in a startup environment allowed me to have more freedom when it came to coming up with ideas and how we built them up which was amazing because it taught me so much about ideation, design, testing and market fit. I was able to place 2nd In both of our hackathons which was a great feeling and excited me to do more outside of work.
 
 ### Presentations
 <img src="https://c1.sfdcstatic.com/content/dam/blogs/ca/Blog%20Posts/make-next-presentation-best-yet-open-graph.jpg"/>
