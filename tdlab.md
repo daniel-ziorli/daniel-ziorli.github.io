@@ -10,15 +10,15 @@ Over the course of the fall I worked with the wonderful people at TD Lab as a so
 ---
 
 ### Hackathons
-<img src="https://atomicsmash-725c.kxcdn.com/wp-content/uploads/2018/08/requirements_gathering_contained-1108x0-c-default.jpg"/>
+<img src="https://ryecscu.com/content/images/size/w2000/2019/09/eigth.png"/>
 I wanted to improve my creative skills during hackathons, coming up with new and interesting ideas that would solve problems with very simple solutions. Working in a startup environment allowed me to have more freedom when it came to coming up with ideas and how we built them up which was amazing because it taught me so much about ideation, design, testing and market fit. I was able to place 2nd In both of our hackathons which was a great feeling and excited me to do more outside of work.7
 
 ### Presentations
-<img src="https://www.wlion.com/wp-content/uploads/2017/04/CleanCode.jpg"/>
+<img src="https://c1.sfdcstatic.com/content/dam/blogs/ca/Blog%20Posts/make-next-presentation-best-yet-open-graph.jpg"/>
 Improving my ability to present is vital for working in companies big or small. Over the course of the semester I made it a goal to work on my presentation skills to my fellow co-workers and other members of the company. By doing so I would have a great advantage over others who may have never presented making it easy to get my ideas across and just over all being more confident in a presentation setting. Every week we would have to come up with a presentation to see what we have been working on during the week to keep the team updated. We also had to prepare a big presentation for middle manage to show what the innovation sector was working on and allowed us to connect with other people in the company to make our products a reality.
 
 ### Flutter and Dart
-<img src="https://www.hitec-dubai.com/wp-content/uploads/2018/10/Big-Data-Verteda-1200x848.jpeg"/>
+<img src="https://miro.medium.com/max/3200/1*73IgUxPfyXUKZAaIXgutrw.png"/>
 The project that I was working on was primarily done in the language Dart and used the mobile development framework Flutter which was created by google. This framework and language are extremely new and there isn't an answer to every question on stack overflow. This forced me to do two things that I have never had to really do before which was 1. read documentation and 2. read source code. Since flutter and dart are both open sources you can look into their code bases if the documentation for the widget your using doesn't act as documented. This deep dive into the frame work gave me a real appreciation to what people do behind the scenes of some of these open source projects and gave me a better understanding of how to structure and read others code.
 
 ## Job Description
